@@ -1,0 +1,6 @@
+{
+  "name": "Taiwan History Timeline Game",
+  "description": "A drag-and-drop game to learn the timeline of Taiwan history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
